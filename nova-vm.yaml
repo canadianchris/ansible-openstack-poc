@@ -18,4 +18,5 @@
         flavor: 101
         security_groups: default
         auto_ip: yes
+        meta: "hostname=testhost,group=testgroup"
 
